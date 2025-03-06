@@ -39,8 +39,6 @@
  *   stat_type = 2 ==> Voxel-based STANDARD DEVIATION
  *   stat_type = 3 ==> Intensity values by location and time (time series data)
  *
- * Author: [Your Name]
- * Date: [Date]
  */
 
 #include <stdio.h>
